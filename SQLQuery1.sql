@@ -1,0 +1,5 @@
+SELECT TOP (1000) [Entity]
+      ,[Code]
+      ,[Day]
+      ,[Daily new confirmed deaths due to COVID-19 per million people (r]
+  FROM [PortfolioProject].[dbo].[covid19]
